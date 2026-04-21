@@ -1,0 +1,187 @@
+Chainguard Source Available License Agreement v1.0
+Last Update: April 2026
+
+Acceptance
+
+This Agreement sets forth the terms and conditions on which the Licensor makes
+available the Software. By installing, downloading, accessing, using, or distributing any
+of the Software, You agree to all of the terms and conditions of this Agreement.
+
+If You are receiving the Software on behalf of Your Company, You represent and
+warrant that You have the authority to agree to this Agreement on behalf of such entity.
+
+The Licensor reserves the right to update this Agreement from time to time by posting
+revised terms at a URL available at: https://www.chainguard.dev/legal/. Updated terms
+become effective immediately upon posting. Your continued Use of the Software after
+any such update constitutes Your acceptance of the revised terms.
+
+The terms below have the meanings set forth below for purposes of this Agreement:
+
+Definitions
+
+Agreement: this Chainguard Source Available License v1.0 Agreement.
+
+Continuous Integration or Continuous Delivery (CI/CD): any system, platform, or
+service used to implement continuous integration, continuous delivery, or continuous
+deployment practices, including automated pipelines for building, testing, packaging,
+and deploying software.
+
+Control: ownership, directly or indirectly, of substantially all the assets of an entity, or
+the power to direct its management and policies by vote, contract, or otherwise.
+
+License: the license as set forth in the "License" paragraph below.
+
+Licensor: Chainguard, Inc., on behalf of itself and its subsidiaries and affiliates
+worldwide.
+
+Modify or Modification: copy from or adapt all or part of the work in a fashion requiring
+copyright permission other than making an exact copy. The resulting work is deemed a
+Modified version of the earlier work.
+
+Software: the Chainguard-authored software components, including software referred to
+by Licensor as "Actions" or "Chainguard Actions," and any workflow configurations, and
+associated code, made available by the Licensor under this Agreement. "Software" does
+not include third-party components governed by separate open-source or other third
+party licenses as identified in the THIRD-PARTY-NOTICES file distributed with the
+Software.
+
+Trademark: the trademarks, service marks, and any other similar rights.
+
+Use: anything You do with the Software requiring one of Your Licenses.
+
+You: the recipient of the Software, the individual or entity on whose behalf you are
+agreeing to this Agreement.
+
+Your Company: any legal entity, sole proprietorship, or other kind of organization that
+You work for, plus all organizations that have control over, are under the control of, or
+are under common control with that organization.
+
+Your Licenses: all the Licenses granted to You for the Software under this Agreement.
+
+License
+
+The Licensor grants You a non-exclusive, royalty-free, worldwide, non-sublicensable,
+non-transferable license to use, copy, distribute, make available, and prepare derivative
+works of the Software, in each case subject to the limitations and conditions below.
+
+Limitations
+
+Except for the rights expressly granted in the Permitted Uses section of this Agreement,
+You may not sell, rent, sublicense, transfer, or distribute the Software or a Modified
+version of the Software to any third party, or make the functionality of the Software or
+any Modified version available to others.
+
+Without limiting the foregoing, making the functionality of the Software or Modified
+version available to third parties includes offering a product or service the value of which
+entirely or primarily derives from the value of the Software or Modified version, or
+offering a product or service that accomplishes for users the primary purpose of the
+Software or Modified version in a public or private repository, registry, or marketplace
+for use by third parties.
+
+You may not use the Software, or any Modified version of the Software to develop,
+provide, sell, offer, or distribute a product or service that competes with, or serves as a
+substitute for, any product or service offered by the Licensor. For the purposes of this
+Agreement, a competing product of the Licensor means any product or service that
+scans, validates, monitors, builds, enforces, secures, verifies, manages, distributes,
+signs, attests, or hardens software artifacts, container images, open source packages,
+or CI/CD workflow components; that is substantially similar to or serves as a substitute
+for any product or service offered; or is publicly announced by the Licensor, whether or
+not such product or service incorporates or is derived from the Software.
+
+You may not alter, remove, or obscure any licensing, copyright, or other notices of the
+Licensor in the Software. Any use of the Licensor's Trademarks is subject to applicable
+law.
+
+Permitted Uses
+
+Subject to the terms of this Agreement, You may modify the Software for Your own
+internal use and use the Software in Your own internal CI/CD pipelines, workflows, and
+development environments, without restriction. This includes sharing the Software
+within Your Company, including through internal repositories, registries, or marketplace
+tools, for use by Your Company's authorized users.
+
+You may permit Your contractors, agents, and service providers to access and use the
+Software solely on Your behalf, for Your benefit, and within Your infrastructure and
+CI/CD environments provided that (a) such use is limited to performing work for You
+under Your direction and control, and (b) each such contractor, agent, or service
+provider agrees to be bound by terms at least as restrictive as this Agreement before
+accessing the Software. You remain responsible for any acts or omissions of Your
+contractors, agents, and service providers in connection with the Software.
+
+You may copy, fork, and redistribute verbatim copies of the Software for non-commercial
+purposes provided that You do not modify the Software in any way, and provided that
+You include a complete copy of this Agreement with any such redistribution. This
+permission does not extend to any commercial use, commercial redistribution, or use in
+connection with a competing product or service.
+
+Information Requests
+
+If the Licensor has a reasonable, good-faith basis to believe You are using the Software
+in violation of this Agreement, You shall, upon written request, provide the Licensor with
+a written description of Your use of the Software sufficient to allow the Licensor to assess
+compliance. Failure to respond within thirty (30) days of such request shall constitute a
+material breach of this Agreement.
+
+Notices
+
+You must ensure that anyone who receives from You (or anyone under your control) a
+copy of the Software, or any part thereof, gets a copy of the terms and conditions in this
+Agreement.
+
+If You Modify the Software, You must include in any Modified copies of the Software
+prominent notices therein stating that You have Modified Software.
+
+Third-Party Components
+
+The Software may include components licensed by third parties under separate licenses,
+including without limitation, open sources licenses. Those components remain governed
+by their respective licenses, which are identified in the THIRD-PARTY-NOTICES file
+distributed with the Software. Nothing in this Agreement restricts Your rights under those
+separate licenses with respect to those components.
+
+No Other Rights
+
+The terms and conditions of this Agreement do not imply any Licenses other than those
+expressly granted in this Agreement.
+
+Termination
+
+If You Use the Software in violation of this Agreement, such Use is expressly not
+Licensed, and Your Licenses hereunder will automatically terminate. Your Licenses may
+be reinstated retroactively at the Licensor's sole and absolute discretion.
+
+You acknowledge that any breach of the Limitations section of this Agreement may cause
+irreparable harm to the Licensor for which monetary damages would be inadequate. The
+Licensor shall be entitled to seek injunctive or other equitable relief without the
+requirement of posting a bond or proving actual damages, in addition to any other
+remedies available at law or in equity.
+
+Upon termination, You shall immediately cease all Use of the Software and destroy all
+copies, including Modified versions, in Your possession or control. The Limitations, No
+Liability, Indemnification, Information Requests, Governing Law and Jurisdictions, and
+this Termination section shall survive any termination or expiration of this Agreement.
+
+No Liability
+
+As far as the law allows, the Software comes as is, without any warranty or condition,
+and the Licensor will not be liable to You for any damages arising out of this Agreement
+or the Use or nature of the Software, regardless of the type, nature or circumstance of
+the resulting legal claim.
+
+In no event shall the Licensor be liable for any indirect, incidental, special,
+consequential, or punitive damages, including loss of profits, revenue, data, or business
+opportunity, regardless of the theory of liability, even if the Licensor has been advised of
+the possibility of such damages. The Licensor's total aggregate liability under this
+Agreement shall not exceed one hundred U.S. dollars (USD $100).
+
+If any part of the warranty disclaimer or limitation of liability in this section is found to be
+unenforceable by a court of competent jurisdiction, the License granted under this
+Agreement shall be void in its entirety, effective as of the date of such finding.
+
+Governing Law and Jurisdiction
+
+This Agreement will be construed and enforced in all respects in accordance with the
+laws of the State of Delaware, U.S.A., without reference to its choice of law rules. The
+federal and state courts located in the State of Delaware have exclusive jurisdiction for
+all purposes relating to this Agreement. The parties consent to personal jurisdiction and
+venue therein.
