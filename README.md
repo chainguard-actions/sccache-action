@@ -1,6 +1,12 @@
 # mozilla-actions/sccache-action
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/mozilla-actions/sccache-action](https://github.com/mozilla-actions/sccache-action).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v0.0.9 | [`v0.0.9`](https://github.com/chainguard-actions/sccache-action/tree/v0.0.9) | — |
 
 ## Privacy
 
