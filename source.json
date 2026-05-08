@@ -1,4 +1,6 @@
 {
-  "upstream": "mozilla-actions/sccache-action",
-  "version": "v0.0.9"
+  "owner": "mozilla-actions",
+  "repo": "sccache-action",
+  "version": "",
+  "url": "https://github.com/mozilla-actions/sccache-action"
 }
